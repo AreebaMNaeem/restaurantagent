@@ -1,0 +1,10 @@
+agno 
+pandas
+numpy
+Groq
+duckduckgo-search
+ddgs
+streamlit 
+requests
+bs4
+python-dotenv
